@@ -1,7 +1,5 @@
 # Weather app
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Weather%20App-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7678)
-
 <p align="center"><img src="assets/screenshot-1.png" /></p>
 
 **Requirements**
@@ -18,7 +16,7 @@
 - Support two language. English & Persian
 - Use locale Database
 
-**Demo** application is available in [Release]
+
 
 **Screenshot**
 
